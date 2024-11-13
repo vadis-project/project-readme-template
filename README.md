@@ -50,6 +50,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact">Citation</a></li>
   </ol>
 </details>
 
@@ -128,7 +129,7 @@ TODO: add contact info
 Your Name - email@example.com
 
 ## Citation
-TODO: add citation if it applies
+TODO: add bibtex citation if it applies
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
