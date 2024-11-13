@@ -1,15 +1,6 @@
 <!-- This template is adapated from https://github.com/othneildrew/Best-README-Template -->
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Issues][issues-shield]][issues-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -27,8 +18,6 @@
     <a href="TODO: add project github followed by: /issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -133,7 +122,7 @@ TODO: add bibtex citation if it applies
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/vadis-project/project-readme-template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/vadis-project/project-readme-template/issues
 [license-shield]: https://img.shields.io/github/license/vadis-project/project-readme-template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE
+[license-url]: https://github.com/vadis-project/project-readme-template/blob/master/LICENSE
 [product-screenshot]: images/screenshot.png
