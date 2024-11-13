@@ -127,6 +127,9 @@ TODO: add contact info
 
 Your Name - email@example.com
 
+## Citation
+TODO: add citation if it applies
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
